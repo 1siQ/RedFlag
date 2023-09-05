@@ -1,0 +1,21 @@
+.container{
+    margin: auto;
+   
+    height: 96vh;
+    
+}
+.container .col{
+    display: block;
+    float: left;
+    width: 33.2%;
+    height: 96vh;
+  
+}
+.container .col .line{
+    border: 3px solid black;
+
+    display: block;
+    width: 100%;
+    height: 33%;
+  
+}
